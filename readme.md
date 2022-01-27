@@ -23,6 +23,8 @@
 4. 소액의 직접투자자도 부담 없이 이용 가능한 <b>개인 맞춤형 추천 서비스</b>
 5. 시간과 장소 불문하고 편리하게 활용할 수 있는 <b>웹 서비스</b> 제공
 
+## 시연영상
+[Project Demo Video](https://youtu.be/MZu7zety-ec)
 
 ## 설치된 패키지
 * `pip install django` : sqlparse, pytz, asgiref, django
